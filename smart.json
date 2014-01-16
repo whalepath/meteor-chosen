@@ -1,0 +1,8 @@
+{
+  "name": "chosen-js",
+  "description": "Chosen js",
+  "homepage": "https://github.com/whalepath",
+  "author": "Patrick Moore <patmoore@whalepath.com>",
+  "version": "1.0.0",
+  "git": "https://github.com/whalepath//meteor-chosen.git",
+}
