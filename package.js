@@ -4,6 +4,8 @@ Package.describe({
 
 Package.on_use(function (api) {
     api.add_files([
+       // 'chosen.jquery.js',
+        'chosen.jquery.min.js',
        // 'chosen.proto.js',
         'chosen.proto.min.js',
        // 'chosen.css',
